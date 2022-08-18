@@ -188,6 +188,10 @@ main > article.aprender > p.fim {
     padding: 10px;
 }
 
+abbr {
+    text-decoration: none;
+}
+
 footer {
     text-align: center;
     background-color: #154C2E;
