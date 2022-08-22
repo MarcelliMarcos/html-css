@@ -5,4 +5,3 @@
 Meu desafio Cordel
 
 Neste link <a href="https://marcellimarcos.github.io/html-css/desafio-cordel/desafio-cordel.html"> AQUI </a>
-</strong>
